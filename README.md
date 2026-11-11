@@ -9,9 +9,6 @@
 
 📍 Metro Detroit, Michigan
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bradley-cronk/)
-[![Email](https://img.shields.io/badge/Email-Contact-00BFD8?style=flat-square&logo=gmail&logoColor=white)](mailto:bradcronk.contact@gmail.com)
-
 </div>
 
 ---
@@ -36,7 +33,8 @@ I'm currently expanding my technical capabilities through computer science and s
 
 - **HRIS & HCM:** Workday, UKG, Kronos, ADP
 - **IT Service Management:** ServiceNow
-- **Device & Identity Support:** Omnissa Hub, MFA enrollment, and account setup
+- **Device Management:** Employee work device assignment and setup
+- **Identity & Access Support:** MFA enrollment, account setup, and password assistance
 - **Systems Operations:** Workflow troubleshooting, issue documentation, user support, and fix validation
 
 ### Data & Reporting
